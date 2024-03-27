@@ -1,3 +1,9 @@
+---
+next:
+  text: '自定义下一页的文本和链接'
+  link: '/example/'
+---
+
 # Markdown Extension Examples
 
 This page demonstrates some of the built-in markdown extensions provided by VitePress.
