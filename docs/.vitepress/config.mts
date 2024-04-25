@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'vitepress-template',
   description: 'a vitepress template',
   srcDir: './src',
+  base: '/vitepress-template/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
